@@ -12,4 +12,6 @@ of the projets. I didn't do every bonus part of projects, mostly because I didn'
 | [Milestone 0 / libft](https://github.com/AkaiiTenshi/libft) | 125/100 |
 | [Milestone 1 / get_next_line](https://github.com/AkaiiTenshi/get_next_line) | 125/100 |
 | [Milestone 1 / ft_printf](https://github.com/AkaiiTenshi/ft_printf) | 100/100 |
-| [Milestone 2 / fract-ol](https://github.com/AkaiiLeS/42/tree/main/projects/cercle2/fractol) | 108/100 |
+| [Milestone 2 / fract-ol](https://github.com/AkaiiTenshi/fract-ol) | 108/100 |
+| [Milestone 2 / minitalk](https://github.com/AkaiiTenshi/minitalk) | 125/100 |
+| [Milestone 2 / push_swwap(https://github.com/AkaiiTenshi/push_swap) | 100/100 |
