@@ -15,3 +15,7 @@ of the projets. I didn't do every bonus part of projects, mostly because I didn'
 | [Milestone 2 / fract-ol](https://github.com/AkaiiTenshi/fract-ol) | 108/100 |
 | [Milestone 2 / minitalk](https://github.com/AkaiiTenshi/minitalk) | 125/100 |
 | [Milestone 2 / push_swap](https://github.com/AkaiiTenshi/push_swap) | 100/100 |
+| [Milestone 3 / philosophers](https://github.com/AkaiiTenshi/philosophers) | 100/100 |
+| [Milestone 3 / minishell]comming soon | 101/100 |
+| [Milestone 4 / cub3D](https://github.com/AkaiiTenshi/cub3D) | 100/100 |
+| [Milestone 4 / Cpp00](https://github.com/AkaiiTenshi/Cpp00) | 100/100 |
